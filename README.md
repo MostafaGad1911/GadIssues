@@ -1,5 +1,5 @@
 # GadIssues
-t
+
 ### Formatting github readme 3 ###
                  https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md
 ### Retrofit not working on android < android 5 3 ###
