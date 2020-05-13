@@ -1,6 +1,7 @@
 # GadIssues
 
-#  Retrofit not working on android < android 5 
+### Retrofit not working on android < android 5 3 ###
+ 
                      fixed with these dependecies 
                              implementation 'com.google.code.gson:gson:2.6.2'
                              implementation 'com.squareup.retrofit2:retrofit:2.5.0'
