@@ -9,3 +9,8 @@
                              implementation 'com.squareup.retrofit2:retrofit:2.5.0'
                              implementation 'com.squareup.retrofit2:converter-gson:2.0.2'
   
+### Entry name 'AndroidManifest.xml' collided (Build failed after updating the android gradle plugin to 3.6.0) 3 ###
+
+                    - try add android.useNewApkCreator=false in gradle.properties
+                    - delete release apk and regenerate it 
+ 
