@@ -1,7 +1,9 @@
 # GadIssues
 
 ### Formatting github readme 3 ###
+                 
                  https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md
+                 
 ### Retrofit not working on android < android 5 3 ###
  
                      fixed with these dependecies 
@@ -13,4 +15,9 @@
 
                     - try add android.useNewApkCreator=false in gradle.properties
                     - delete release apk and regenerate it 
+                    
+### You need to use a Theme.AppCompat theme (or descendant) with this activity 3 ###
+                
+                https://stackoverflow.com/a/40184937/7698605
+                    
  
