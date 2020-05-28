@@ -19,5 +19,10 @@
 ### You need to use a Theme.AppCompat theme (or descendant) with this activity 3 ###
                 
                 https://stackoverflow.com/a/40184937/7698605
+                
+### Locale not changing in signed apk 3 ###
+               
+               https://stackoverflow.com/a/53442299/7698605
+                
                     
  
