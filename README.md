@@ -23,6 +23,10 @@
 ### Locale not changing in signed apk 3 ###
                
                https://stackoverflow.com/a/53442299/7698605
+               
+### Default interface methods are only supported starting with Android N 3 ###
+                 
+                 https://stackoverflow.com/a/55139294/7698605
                 
                     
  
