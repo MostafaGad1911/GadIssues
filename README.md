@@ -28,5 +28,8 @@
                  
                  https://stackoverflow.com/a/55139294/7698605
                 
+### Permission Denial: reading com.android.providers.media.MediaDocumentsProvider 3 ###
+
+             https://www.youtube.com/watch?v=s_Qz3eKBcv8
                     
  
