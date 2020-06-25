@@ -1,5 +1,9 @@
 # GadIssues
 
+### How to integrate Admob Rewarded Ads in Android? 3 ###
+             
+             https://stackoverflow.com/a/39896376
+
 ### Formatting github readme 3 ###
                  
                  https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md
