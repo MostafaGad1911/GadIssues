@@ -36,4 +36,7 @@
 
              https://www.youtube.com/watch?v=s_Qz3eKBcv8
                     
+ ### EditText cursor resides after the hint 3 ###
  
+            https://stackoverflow.com/a/36748642/7698605
+
