@@ -39,4 +39,8 @@
  ### EditText cursor resides after the hint 3 ###
  
             https://stackoverflow.com/a/36748642/7698605
+            
+ ### app-debug.apk does not exist on disk. Error while Installing APK    ###
+ 
+            https://stackoverflow.com/a/52097758/7698605 
 
