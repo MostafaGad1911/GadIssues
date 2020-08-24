@@ -1,5 +1,9 @@
 # GadIssues
 
+### Tablayout item text displayed in two lines 3 ###
+             
+             https://stackoverflow.com/a/40966972/7698605
+
 ### How to integrate Admob Rewarded Ads in Android? 3 ###
              
              https://stackoverflow.com/a/39896376
