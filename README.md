@@ -1,5 +1,9 @@
 # GadIssues
 
+### LiveData observer is being triggered twice for a newly attached observer ###
+
+                       https://stackoverflow.com/a/50385170/7698605
+
 ### Tablayout item text displayed in two lines 3 ###
              
              https://stackoverflow.com/a/40966972/7698605
