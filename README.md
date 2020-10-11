@@ -1,5 +1,9 @@
 # GadIssues
 
+### Google sign in error 12500 ###
+
+     Add support email in firebase project settings 
+     
 ### LiveData observer is being triggered twice for a newly attached observer ###
 
                        https://stackoverflow.com/a/50385170/7698605
